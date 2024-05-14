@@ -1,0 +1,49 @@
+[
+  {
+    "id" : "0",
+    "Name": "Linen shirt",
+    "Old_price" : "Rs.4200.00",
+    "New_price" : "Rs 3462.00",
+    "image" : "images/image/Screenshot 2024-03-20 010934.png"
+  },
+
+  {
+    "id" : "1",
+    "Name": "Polo t_shirt",
+    "Old_price" : "Rs.3600.00",
+    "New_price" : "Rs 2880.00",
+    "image" : "images/image/Screenshot 2024-03-20 010941.png"
+  },
+  {
+    "id" : "2",
+    "Name": "Short sleeve shirt",
+    "Old_price" : "Rs.2300.00",
+    "New_price" : "Rs 1840.00",
+    "image" : "images/image/Screenshot 2024-03-20 010953.png"
+  },
+
+  {
+    "id" : "5",
+    "Name": "Long sleeve shirt",
+    "Old_price" : "Rs.4320.00",
+    "New_price" : "Rs 5400.00",
+    "image" : "images/image/Screenshot 2024-03-20 010959.png"
+  },
+  {
+    "id" : "3",
+    "Name": "Denim shirt",
+    "Old_price" : "Rs.5600.00",
+    "New_price" : "Rs 4480.00",
+    "image" : "images/image/Screenshot 2024-03-20 011007.png"
+  },
+
+  {
+    "id" : "4",
+    "Name": "Flannel shirt",
+    "Old_price" : "Rs.4320.00",
+    "New_price" : "Rs 5400.00",
+    "image" : "images/image/Screenshot 2024-03-20 011017.png"
+  }
+
+
+]
